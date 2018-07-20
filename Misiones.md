@@ -1,1 +1,3 @@
 # Misiones
+
+* capturar red skull
